@@ -1,0 +1,17 @@
+{
+  "great pyramid of giza": {
+    "name": "Great Pyramid of Giza",
+    "lat": 29.9792458,
+    "lon": 31.1342
+  },
+  "stonehenge": {
+    "name": "Stonehenge",
+    "lat": 51.1789,
+    "lon": -1.8262
+  },
+  "machu picchu": {
+    "name": "Machu Picchu",
+    "lat": -13.1631,
+    "lon": -72.545
+  }
+}
